@@ -35,7 +35,10 @@ The decryption involved multiple stages:
 |-------|-----------|---------|
 | 1 | Binary → Base64 | `ErcmE3yzD2KmQCWqDBbyhrqzh2qzEd1wfB59` |
 | 2 | ROT13 | `RepzR3lmQ2XzDPJdQOoluedmu2dmRq1jsO59` |
-| 3 | ROT-N Variations | Final Flag |
+| 3 | flag{} → Base64  | `ZmxhZ3t9` |
+| 4 | ROT-N Variations | `ZmxhZ3tuY2FhLXRlYWwtcmluc2luZy1raW59`|
+| 4 | Base64 → Text | `flag{ncaa-teal-rinsing-kin}`|
+
 
 ## Final Flag
 ```text
@@ -47,6 +50,7 @@ flag{ncaa-teal-rinsing-kin}
 - Base64 encoding was the first layer
 - ROT-N encryption provided additional security
 - Pattern recognition was crucial for solving
+- On generating ROT-N decryptions find the one that starts in the format of `ZmxhZ3t9`
 
 ## Tools Used
 - Base64 decoder
