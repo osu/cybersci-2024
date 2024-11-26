@@ -6,6 +6,14 @@
   <b>Fall 2024 Challenges and Write-ups</b>
 </p>
 
+## 👥 Team Members
+| Name | Role |
+|------|------|
+| [Hasan Khan](https://www.linkedin.com/in/pashto/) | Team Member |
+| [Kaaden RumanCam](https://www.linkedin.com/in/kaaden-rc/) | Team Member |
+| [Hamza Guerrayi](https://www.linkedin.com/in/hamza-guerrayi-b48096327/) | Team Member |
+| Wajd Alrabadi | Team Member |
+
 ## 🎯 Challenge Categories
 
 ### Cryptography 🔐
@@ -50,4 +58,7 @@
 3. Read the challenge descriptions and attempt solutions
 4. Check write-ups for detailed explanations
 
-
+Citations:
+[1] https://www.linkedin.com/in/pashto/
+[2] https://www.linkedin.com/in/kaaden-rc/
+[3] https://www.linkedin.com/in/hamza-guerrayi-b48096327/
