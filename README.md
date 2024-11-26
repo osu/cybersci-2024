@@ -20,7 +20,7 @@
 | Challenge Name | Points | Status | Write-up |
 |---------------|---------|---------|----------|
 | Leaked and Loaded | 100 | ✅ SOLVED | [Write-up](Crypto/Leaked-and-Loaded/) |
-| Parts | 930 | ⏳ UNSOLVED | - |
+| Parts | 930 | 🔄 PARTIAL | - |
 
 ### Cloud Computing ☁️
 | Challenge Name | Points | Status | Write-up |
@@ -47,9 +47,9 @@
 | Voter Registry 2 | 793 | ⌛ SOLVED (Late) | [Write-up](Defence/Voter-Registry-2/) |
 
 ## 📊 Progress Summary
-- Total Challenges: 9
-- Solved: 4
-- Partially Solved: 3
+- Total Challenges attempted: 10
+- Solved: 3
+- Partially Solved: 5
 - Solved Late: 2
 
 ## 🚀 Getting Started
