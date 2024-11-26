@@ -58,7 +58,3 @@
 3. Read the challenge descriptions and attempt solutions
 4. Check write-ups for detailed explanations
 
-Citations:
-[1] https://www.linkedin.com/in/pashto/
-[2] https://www.linkedin.com/in/kaaden-rc/
-[3] https://www.linkedin.com/in/hamza-guerrayi-b48096327/
