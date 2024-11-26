@@ -17,20 +17,10 @@ ErcmE3yzD2KmQCWqDBbyhrqzh2qzEd1wfB59
 
 ### 1. Base64 Investigation
 The string appears to be Base64 encoded. Looking for the Base64 pattern of `flag{}` which is `ZmxhZ3t9` helps identify potential flags.
+[cyberchef](https://gchq.github.io/CyberChef/) Use this for base64 and Binary conversions
 
-### 2. ROT13 Analysis
-```python
-# Python code to perform ROT13
-def rot13(text):
-    result = ""
-    for char in text:
-        if char.isalpha():
-            ascii_offset = ord('A') if char.isupper() else ord('a')
-            result += chr((ord(char) - ascii_offset + 13) % 26 + ascii_offset)
-        else:
-            result += char
-    return result
-```
+### 2. ROT-N Analysis
+[dcode](https://www.dcode.fr/rot-cipher) Use this for all Rot Based Decryption
 
 ### 3. Decryption Process
 The decryption involved multiple stages:
