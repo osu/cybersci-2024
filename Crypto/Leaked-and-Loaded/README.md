@@ -59,3 +59,7 @@ flag{ncaa-teal-rinsing-kin}
 
 ---
 *Note: This challenge demonstrates the importance of proper encryption methods rather than relying on simple encoding schemes.*
+
+## Citations
+- [starlight](https://starlightpwn.github.io/) told me a more optimal approach of converting flag{} to base64
+
